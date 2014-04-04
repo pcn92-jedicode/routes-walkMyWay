@@ -2,4 +2,4 @@
 Nah don't
 72 Hours !!
 
-![alt text](/storyboard/firstStart.jpg "WMW")
+![alt text](/storyboard/firstStart.jpeg "WMW")
